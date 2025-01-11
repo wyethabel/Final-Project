@@ -1,0 +1,6 @@
+vin: 00000000000000002
+make: Ford
+model: Bronco
+color: Green
+year: 2021
+mileage: 25000
